@@ -10,6 +10,6 @@
 echo "Hello World! - " . date("d/m/Y H:i:s");
 ?>
 </h1>
-<p>Aplicação publicada no Render.</p>
+<p>Hospedagem de aplicações é o serviço que mantém um software ou site online, armazenado em servidores que funcionam 24 horas por dia, para que qualquer pessoa consiga acessar pela internet a qualquer instante.</p>
 </body>
 </html>
